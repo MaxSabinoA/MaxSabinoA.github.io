@@ -1,0 +1,120 @@
+/*
+#1 color = #4ACCD1;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+    color: #c49cde;
+}
+
+.circled {
+	background: #c49cde;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #c49cde;
+}
+
+.scrollup:hover {
+	background: #c49cde;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #c49cde;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #c49cde;
+  border-color: #c49cde;
+}
+
+
+/* top */
+.top-area {
+	background: #c49cde;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #c49cde;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color: #c49cde;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #c49cde;
+}
+
+
+.bg-skin {
+	background: #c49cde;
+}
+
+.highlight-color {
+	background-color: #c49cde;
+}
+.color {
+	color: #c49cde;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#c49cde;
+}
+.pricing-content.featured h3 {
+	background:#c49cde;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #c49cde;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #c49cde;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #c49cde;
+    border:1px solid #c49cde;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #c49cde;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #c49cde;
+    border-color: #c49cde;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #c49cde;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #c49cde;
+}
+
+.form-control:focus {
+  border-color: #c49cde;
+}
